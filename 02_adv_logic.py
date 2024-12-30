@@ -18,4 +18,6 @@ else:
     You win only when (computer - you) = -2 or 1
 '''
 
-# Although this time the analysis is not effective cause not everyone will understand the methodology behind this code in 3rd file.
+'''Although this time the analysis is not effective cause 
+not everyone will understand the methodology behind this code in 3rd file.
+'''
