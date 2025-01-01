@@ -1,1 +1,1 @@
-# This is the Snake Water Game in Python.
+# This is the Snake Water Game in Python language.
