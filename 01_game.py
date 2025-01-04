@@ -14,7 +14,7 @@ you = youDict[youstr]
 
 print(f"Your choice {reverseDict[you]}\nComputer's choice {reverseDict[computer]}")
 
-# Now we have two numbers/variables i.e. computer and you.
+# Now we have 2 numbers/variables i.e. computer and you.
 
 if (computer == you):
     print("Its a draw.")
